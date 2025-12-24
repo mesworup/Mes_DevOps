@@ -1,0 +1,14 @@
+s is my first script.
+
+echo "##########"
+echo "The current date and time is"
+echo ""
+date
+echo "##########"
+echo "Disk utilization"
+df -h
+echo ""
+echo "###########"
+echo "Memory utilization"
+free -m
+echo
