@@ -1,4 +1,4 @@
-s is my first script.
+#This is my first script.
 
 echo "##########"
 echo "The current date and time is"
