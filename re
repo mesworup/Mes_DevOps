@@ -1,2 +1,0 @@
-bbb
-n n nnbbbblblb
